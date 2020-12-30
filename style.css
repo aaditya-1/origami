@@ -1,0 +1,73 @@
+body{
+    background-color: rgba(212, 64, 94, 0.425);
+}
+
+.img{
+    border-bottom: dashed;
+    border-top: groove;
+    border-radius: 20%;
+    border-color: yellowgreen;
+    margin: 50px;
+    padding: 50px;
+    margin-left: 250px;
+}
+.center{
+font-family: 'Yellowtail', cursive;
+font-size: xx-large;
+    margin: 50px;
+
+}
+
+#camel{
+    margin: 170px;
+
+}
+
+#center{
+font-family: 'Redressed', cursive;
+font-size: x-large;
+}
+
+.cam{
+
+        font-family: 'Langar', cursive;
+        border-style: ridge;
+        border-color: chocolate;
+        border-radius: 20px;
+        border-width: 5px;
+        text-align: center;
+        padding: 20px;
+        font-size: xx-large;
+}
+
+.link:link{
+    color: coral;
+}
+
+.link:active{
+    color:rgb(102, 175, 28);
+}
+
+.link:hover{
+    color: rgb(17, 110, 110);
+}
+
+.link:visited{
+    color: crimson;
+}
+
+#main{
+    color: rgb(255, 105, 55);
+    font-family: 'Hanalei Fill', cursive;
+    font-size:100px;
+    text-align: center;
+    border-style: dashed;
+    border-color: darkolivegreen;
+    border-radius: 20%;
+    background-color: rgba(255, 235, 205, 0.699);
+    margin-top: 1px;
+}
+.fb{
+    margin-left: 85%;
+
+}
